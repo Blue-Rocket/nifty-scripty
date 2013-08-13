@@ -4,7 +4,7 @@ A collection of nifty little scripts.
 
 ## xunused
 
-The xunused script was designed to help hunt down image resources in
+The `xunused` script was designed to help hunt down image resources in
 Xcode projects that are no longer actually used by the project. Images
 might be referenced from various source files (such as C, HTML, or even
 Xib) and they might be referenced without their extension and without
